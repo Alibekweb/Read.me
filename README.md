@@ -11,6 +11,10 @@ Men **Frontend Web Dasturchiman**. Hozirda zamonaviy va interaktiv veb-ilovalarn
 - 💻 **Frontend:** HTML, CSS, JavaScript (React JS, TypeScript o'rganilmoqda)
 - ⚙️ **Backend:** Node.js (asoslar)
 
+- ### Portfolio
+- https://alibekweb.github.io/JumanazarovAlibek.github.io/
+- 
+
 
 ---
 
